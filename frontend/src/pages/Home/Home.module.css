@@ -1,0 +1,12 @@
+a {
+  color: #ff2625 !important;
+}
+
+table {
+  margin-top: 20px;
+}
+
+.types {
+  width: 20%;
+  cursor: pointer;
+}

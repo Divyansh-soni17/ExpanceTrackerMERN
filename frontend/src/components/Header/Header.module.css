@@ -1,0 +1,21 @@
+.header {
+  height: 15vh;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  border-radius: 10px;
+}
+
+.logo {
+  size: 100px;
+}
+
+.menu-item {
+  color: #3a1212 !important;
+  border-bottom: 3px solid #ff2625 !important;
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+.ul {
+  margin-right: 10px;
+}
